@@ -1,0 +1,449 @@
+{
+  "app": {
+    "name": "Relingo",
+    "tagline": "Dünya dinlerini saygı ve merakla öğrenin"
+  },
+  "landing": {
+    "hero": {
+      "title": "ücretsiz. eğlenceli. etkili.",
+      "description": "Relingo ile dünya dinleri hakkında bilgi edinmek eğlenceli ve etkilidir. Hızlı, küçük derslerle, çeşitli inançları saygı ve merakla keşfederken bilgi ve anlayış kazanacaksınız.",
+      "cta": "BAŞLA"
+    },
+    "backed": {
+      "title": "profesörlerin desteğiyle",
+      "description": "İçeriğimiz, doğruluk, saygı ve kültürel duyarlılık sağlamak için din bilimi profesörleri ve uzmanları tarafından oluşturulup incelenir.",
+      "expertReview": {
+        "title": "Uzman Onaylı İçerik",
+        "description": "Her ders, akademisyenler ve din uzmanları tarafından incelenir."
+      },
+      "culturallySensitive": {
+        "title": "Kültürel Duyarlılık",
+        "description": "Her inanç geleneğine saygı ve tarafsızlıkla yaklaşıyoruz."
+      },
+      "academicRigor": {
+        "title": "Akademik Titizlik",
+        "description": "Bilimsel kaynaklara ve otoriter metinlere dayanır."
+      }
+    },
+    "personalized": {
+      "title": "kişiselleştirilmiş öğrenme",
+      "description": "Kendi hızınızda öğrenin. Yolunuzu seçin. İlerlemenizi takip edin.",
+      "biteSized": {
+        "title": "Küçük Dersler",
+        "description": "Günlük rutininize uyan hızlı, ilgi çekici dersler. Sadece 5-10 dakikada öğrenin."
+      },
+      "gamified": {
+        "title": "Oyunlaştırılmış Deneyim",
+        "description": "Dersler boyunca ilerlerken XP kazanın, serileri koruyun ve yıldızlar toplayın."
+      },
+      "trackProgress": {
+        "title": "İlerlemeyi Takip Et",
+        "description": "Detaylı istatistikler ve başarılarla öğrenme yolculuğunuzu izleyin."
+      }
+    },
+    "religions": {
+      "title": "dünya dinlerini keşfedin",
+      "description": "Büyük dünya inançlarını saygı ve merakla öğrenin"
+    },
+    "cta": {
+      "title": "Öğrenme yolculuğunuza bugün başlayın",
+      "description": "Dünya dinlerini saygı ve anlayışla keşfeden binlerce öğrenciye katılın.",
+      "button": "ÜCRETSİZ BAŞLA",
+      "note": "Kredi kartı gerekmez • %100 ücretsiz"
+    },
+    "footer": {
+      "about": "Hakkında",
+      "mission": "Misyon",
+      "approach": "Yaklaşım",
+      "team": "Ekip",
+      "learn": "Öğren",
+      "support": "Destek",
+      "helpCenter": "Yardım Merkezi",
+      "faqs": "SSS",
+      "contact": "İletişim",
+      "legal": "Yasal",
+      "terms": "Şartlar",
+      "privacy": "Gizlilik",
+      "copyright": "© 2025 Relingo. Dünyanın her yerindeki meraklı zihinler için yapıldı."
+    }
+  },
+  "auth": {
+    "signIn": {
+      "title": "Tekrar hoş geldiniz",
+      "email": "E-posta",
+      "password": "Şifre",
+      "button": "Giriş yap",
+      "switchToSignUp": "Hesabınız yok mu? Kayıt olun",
+      "forgotPassword": "Şifrenizi mi unuttunuz?"
+    },
+    "signUp": {
+      "title": "Hesap oluştur",
+      "button": "Kayıt ol",
+      "switchToSignIn": "Zaten hesabınız var mı? Giriş yapın",
+      "emailConfirm": "Giriş yapmadan önce hesabınızı onaylamak için e-postanızı kontrol edin."
+    },
+    "resetPassword": {
+      "title": "Şifreyi sıfırla",
+      "description": "E-posta adresinizi girin, size şifrenizi sıfırlamak için bir bağlantı gönderelim.",
+      "newPassword": "Yeni şifre",
+      "confirmPassword": "Şifreyi onayla",
+      "button": "Şifreyi güncelle",
+      "sendButton": "Sıfırlama bağlantısı gönder",
+      "cancel": "İptal",
+      "backToSignIn": "Girişe geri dön",
+      "success": "Şifre sıfırlama e-postası gönderildi! Gelen kutunuzu kontrol edin.",
+      "updated": "Şifre güncellendi!",
+      "updatedDescription": "Şifreniz başarıyla sıfırlandı. Uygulamaya yönlendiriliyor...",
+      "sending": "Gönderiliyor...",
+      "updating": "Güncelleniyor..."
+    },
+    "errors": {
+      "invalidEmail": "Geçersiz e-posta adresi",
+      "passwordTooShort": "Şifre en az 6 karakter olmalıdır",
+      "passwordsDontMatch": "Şifreler eşleşmiyor",
+      "general": "Bir hata oluştu"
+    },
+    "loading": "Yükleniyor..."
+  },
+  "onboarding": {
+    "title": "Relingo'ya hoş geldiniz",
+    "description": "Hangi din hakkında öğrenmeye başlamak istersiniz?",
+    "explore": "Veya tüm dinleri keşfedin",
+    "continue": "Devam et",
+    "learnFundamentals": "Temelleri öğrenin"
+  },
+  "learn": {
+    "title": "Öğrenme yolu",
+    "description": "Dünya dinlerini keşfedin ve kendi hızınızda öğrenin",
+    "lessons": "ders",
+    "lesson": "ders",
+    "completed": "tamamlandı",
+    "noLessons": "Henüz ders yok."
+  },
+  "lesson": {
+    "back": "Geri",
+    "bestScore": "En iyi",
+    "stars": "Yıldızlar",
+    "startLesson": "Derse başla",
+    "practiceAgain": "Tekrar pratik yap",
+    "level": "Seviye",
+    "notFound": "Ders bulunamadı"
+  },
+  "quiz": {
+    "loading": "Quiz yükleniyor...",
+    "noQuestions": "Soru yok",
+    "noQuestionsDescription": "Bu quizde henüz soru yok.",
+    "backToLearn": "Öğrenmeye geri dön",
+    "question": "Soru",
+    "of": "/",
+    "continue": "Devam et",
+    "checkAnswer": "Cevabı kontrol et",
+    "correctAnswer": "Doğru cevap",
+    "typeAnswer": "Cevabınızı yazın...",
+    "true": "Doğru",
+    "false": "Yanlış",
+    "result": {
+      "perfect": "Mükemmel!",
+      "wellDone": "Aferin!",
+      "youGot": "Doğru sayısı:",
+      "outOf": "/",
+      "correct": "doğru"
+    }
+  },
+  "quests": {
+    "title": "Günlük görevler",
+    "description": "Bonus XP kazanmak için görevleri tamamlayın",
+    "currentStreak": "Mevcut seri",
+    "days": "gün",
+    "totalXP": "Toplam XP",
+    "dailyLearner": {
+      "title": "Günlük öğrenci",
+      "description": "Bugün 1 ders tamamla"
+    },
+    "keepStreak": {
+      "title": "Seriyi koru",
+      "description": "Öğrenme serini sürdür"
+    },
+    "tripleThreat": {
+      "title": "Üçlü tehdit",
+      "description": "3 farklı ders tamamla"
+    }
+  },
+  "profile": {
+    "achievements": "Başarılar",
+    "lessons": "Dersler",
+    "stars": "Yıldızlar",
+    "hearts": "Kalpler",
+    "xp": "XP",
+    "signOut": "Çıkış yap"
+  },
+  "nav": {
+    "learn": "Öğren",
+    "quests": "Görevler",
+    "profile": "Profil",
+    "settings": "Ayarlar"
+  },
+  "common": {
+    "loading": "Yükleniyor...",
+    "error": "Hata",
+    "success": "Başarılı",
+    "cancel": "İptal",
+    "save": "Kaydet",
+    "delete": "Sil",
+    "edit": "Düzenle",
+    "close": "Kapat"
+  },
+  "stats": {
+    "days": "gün",
+    "xp": "XP",
+    "hearts": "Kalpler",
+    "streak": "Seri"
+  },
+  "religions": {
+    "christianity": "Hıristiyanlık",
+    "islam": "İslam",
+    "hinduism": "Hinduizm",
+    "judaism": "Yahudilik",
+    "buddhism": "Budizm"
+  },
+  "lessons": {
+    "christianity": {
+      "intro": {
+        "title": "Kökenler ve Tarihsel Arka Plan",
+        "description": "Hıristiyanlığın birinci yüzyıldaki başlangıcını öğrenin"
+      },
+      "origins": {
+        "title": "Kökenler ve Tarihsel Arka Plan",
+        "description": "Hıristiyanlığın birinci yüzyıldaki başlangıcını öğrenin"
+      },
+      "beliefs": {
+        "title": "Temel İnançlar ve Öğretiler",
+        "description": "Hıristiyan inancının temel ilkelerini keşfedin"
+      },
+      "practices": {
+        "title": "Önemli Uygulamalar ve Ritüeller",
+        "description": "Hıristiyan ritüellerini ve günlük uygulamaları keşfedin"
+      },
+      "holidays": {
+        "title": "Tatiller ve Kutlamalar",
+        "description": "Noel, Paskalya ve Pentikost gibi Hıristiyan bayramlarını keşfedin"
+      },
+      "texts": {
+        "title": "Kutsal Metinler ve Semboller",
+        "description": "İncil ve Hıristiyan sembollerini öğrenin"
+      }
+    },
+    "islam": {
+      "intro": {
+        "title": "Kökenler ve Tarihsel Arka Plan",
+        "description": "İslam'ın 7. yüzyıldaki başlangıcını öğrenin"
+      },
+      "origins": {
+        "title": "Kökenler ve Tarihsel Arka Plan",
+        "description": "İslam'ın 7. yüzyıldaki başlangıcını öğrenin"
+      },
+      "beliefs": {
+        "title": "Temel İnançlar ve Öğretiler",
+        "description": "İslam'ın temel inanç ilkelerini keşfedin"
+      },
+      "pillars": {
+        "title": "Beş Şart",
+        "description": "İslam'ın beş temel yükümlülüğünü keşfedin"
+      },
+      "practices": {
+        "title": "Önemli Uygulamalar ve Ritüeller",
+        "description": "Namaz, oruç ve günlük ibadeti keşfedin"
+      },
+      "holidays": {
+        "title": "Tatiller ve Kutlamalar",
+        "description": "Ramazan, Kurban ve diğer festivalleri keşfedin"
+      },
+      "texts": {
+        "title": "Kutsal Metinler ve Semboller",
+        "description": "Kuran ve İslami sembolleri öğrenin"
+      }
+    },
+    "hinduism": {
+      "intro": {
+        "title": "Hinduizm'e Giriş",
+        "description": "Temel terimler ve uygulamalar"
+      },
+      "origins": {
+        "title": "Kökenler ve Tarihsel Arka Plan",
+        "description": "Hinduizm'in eski köklerini öğrenin"
+      },
+      "beliefs": {
+        "title": "Temel İnançlar ve Öğretiler",
+        "description": "Karma, reenkarnasyon ve moksha'yı keşfedin"
+      },
+      "practices": {
+        "title": "Önemli Uygulamalar ve Ritüeller",
+        "description": "Puja, tapınaklar ve günlük ibadeti keşfedin"
+      },
+      "holidays": {
+        "title": "Tatiller ve Kutlamalar",
+        "description": "Diwali, Holi ve diğer festivalleri keşfedin"
+      },
+      "texts": {
+        "title": "Kutsal Metinler ve Semboller",
+        "description": "Vedalar, Bhagavad Gita ve Om sembolünü öğrenin"
+      },
+      "modern": {
+        "title": "Modern İfade ve Çeşitlilik",
+        "description": "Günümüz dünyasında Hinduizm'i keşfedin"
+      }
+    },
+    "judaism": {
+      "intro": {
+        "title": "Yahudiliğe Giriş",
+        "description": "Temel terimler ve uygulamalar"
+      },
+      "origins": {
+        "title": "Kökenler ve Tarihsel Arka Plan",
+        "description": "Yahudiliğin eski köklerini öğrenin"
+      },
+      "beliefs": {
+        "title": "Temel İnançlar ve Öğretiler",
+        "description": "Yahudi inancının temel ilkelerini keşfedin"
+      },
+      "practices": {
+        "title": "Önemli Uygulamalar ve Ritüeller",
+        "description": "Şabat, koşer ve günlük uygulamaları keşfedin"
+      },
+      "holidays": {
+        "title": "Tatiller ve Kutlamalar",
+        "description": "Hanuka, Pesah ve diğer bayramları keşfedin"
+      },
+      "texts": {
+        "title": "Kutsal Metinler ve Semboller",
+        "description": "Tevrat, Talmud ve Yahudi sembollerini öğrenin"
+      },
+      "modern": {
+        "title": "Modern İfade ve Çeşitlilik",
+        "description": "Ortodoks, reform ve muhafazakar Yahudiliği keşfedin"
+      }
+    },
+    "buddhism": {
+      "intro": {
+        "title": "Budizm'e Giriş",
+        "description": "Temel terimler ve uygulamalar"
+      },
+      "origins": {
+        "title": "Kökenler ve Tarihsel Arka Plan",
+        "description": "Budizm'in 2500 yıl önce Kuzey Hindistan'daki başlangıcını öğrenin"
+      },
+      "beliefs": {
+        "title": "Temel İnançlar ve Öğretiler",
+        "description": "Dört Asil Gerçek ve Sekiz Katlı Yol'u keşfedin"
+      },
+      "practices": {
+        "title": "Önemli Uygulamalar ve Ritüeller",
+        "description": "Meditasyon, dua ve Budist ritüelleri keşfedin"
+      },
+      "holidays": {
+        "title": "Tatiller ve Kutlamalar",
+        "description": "Vesak ve Yeni Yıl gibi Budist tatillerini keşfedin"
+      },
+      "texts": {
+        "title": "Kutsal Metinler ve Semboller",
+        "description": "Tripitaka, Dharma Çarkı ve nilüfer çiçeğini öğrenin"
+      },
+      "modern": {
+        "title": "Modern İfadeler ve Çeşitlilik",
+        "description": "Günümüz dünyasında Budizm'i ve çeşitli gelenekleri keşfedin"
+      }
+    }
+  },
+  "sidebar": {
+    "home": "Ana sayfa",
+    "learn": "Öğren",
+    "quests": "Görevler",
+    "achievements": "Başarılar",
+    "profile": "Profil",
+    "quickStats": "Hızlı İstatistikler",
+    "dailyGoal": "Günlük hedef",
+    "quote": "Bilgi, anlayış ve hoşgörünün anahtarıdır.",
+    "settings": "Ayarlar",
+    "logout": "Çıkış yap"
+  },
+  "settings": {
+    "title": "Ayarlar",
+    "subtitle": "Deneyiminizi özelleştirin",
+    "backToProfile": "Profile geri dön",
+    "notifications": {
+      "title": "Bildirimler",
+      "push": "Push bildirimleri",
+      "pushDesc": "Günlük hedefler hakkında hatırlatıcılar alın",
+      "email": "E-posta bildirimleri",
+      "emailDesc": "Haftalık ilerleme raporu"
+    },
+    "appearance": {
+      "title": "Görünüm",
+      "darkMode": "Karanlık mod",
+      "darkModeDesc": "Göz yorgunluğunu azaltın",
+      "soundEffects": "Ses efektleri",
+      "soundEffectsDesc": "Tamamlandığında ses çal"
+    },
+    "language": {
+      "title": "Dil",
+      "interface": "Arayüz dili",
+      "interfaceDesc": "Uygulama dilini değiştirin"
+    },
+    "privacy": {
+      "title": "Gizlilik",
+      "exportData": "Verileri dışa aktar",
+      "exportDataDesc": "Tüm verilerinizi indirin",
+      "deleteAccount": "Hesabı sil",
+      "deleteAccountDesc": "Hesabınızı kalıcı olarak silin",
+      "execute": "Yürüt"
+    },
+    "help": {
+      "title": "Yardıma mı ihtiyacınız var?",
+      "description": "Sorularınız için buradayız",
+      "contactSupport": "Destek ile iletişime geçin"
+    }
+  },
+  "profileExtended": {
+    "level": "Seviye",
+    "progressToLevel": "Seviye ilerlemesi",
+    "xpToNext": "Sonraki seviyeye XP",
+    "totalXP": "Toplam XP",
+    "daysStreak": "Gün serisi",
+    "keepGoing": "Devam et!",
+    "lessons": "Dersler",
+    "completed": "Tamamlandı",
+    "stars": "Yıldızlar",
+    "collected": "Toplanan",
+    "seeAll": "Tümünü gör",
+    "hearts": "Kalpler",
+    "remainingLives": "Kalan canlar",
+    "xp": "Deneyim puanları",
+    "perfect": "Mükemmel",
+    "threeStars": "3 yıldız",
+    "recentActivity": "Son Aktivite",
+    "lessonCompleted": "Ders tamamlandı",
+    "star": "yıldız",
+    "stars_plural": "yıldız",
+    "noActivity": "Henüz aktivite yok",
+    "noActivityDesc": "İlerlemenizi görmek için bir ders başlatın!",
+    "quickActions": "Hızlı İşlemler",
+    "shareProgress": "İlerlemeyi paylaş",
+    "downloadCertificate": "Sertifika indir",
+    "signOutDesc": "Hesabınızdan çıkış yapın",
+    "changePhoto": "Fotoğrafı değiştir"
+  },
+  "streakCalendar": {
+    "title": "Aktivite Takvimi",
+    "active": "Aktif",
+    "inactive": "İnaktif",
+    "today": "Bugün",
+    "daysStreak": "günlük seri!",
+    "keepGoing": "Yeni kilometre taşlarına ulaşmak için devam edin!"
+  },
+  "progressChart": {
+    "title": "Haftalık İlerleme",
+    "average": "Ortalama",
+    "perDay": "XP/gün"
+  }
+}
+

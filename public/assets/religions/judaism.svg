@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <!-- Background -->
+  <defs>
+    <linearGradient id="judaismBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#14B8A6" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#0D9488" stop-opacity="0.05"/>
+    </linearGradient>
+    <linearGradient id="starGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#5EEAD4"/>
+      <stop offset="100%" stop-color="#14B8A6"/>
+    </linearGradient>
+  </defs>
+  
+  <circle cx="60" cy="60" r="56" fill="url(#judaismBg)"/>
+  
+  <!-- Decorative elements -->
+  <g opacity="0.15">
+    <line x1="30" y1="30" x2="90" y2="30" stroke="#14B8A6" stroke-width="2"/>
+    <line x1="30" y1="90" x2="90" y2="90" stroke="#14B8A6" stroke-width="2"/>
+    <line x1="30" y1="30" x2="30" y2="90" stroke="#14B8A6" stroke-width="2"/>
+    <line x1="90" y1="30" x2="90" y2="90" stroke="#14B8A6" stroke-width="2"/>
+  </g>
+  
+  <!-- Star of David with depth -->
+  <g transform="translate(60, 60)" filter="drop-shadow(0 4px 8px rgba(20, 184, 166, 0.3))">
+    <!-- Upper triangle -->
+    <path d="M 0 -22 L 19 8 L -19 8 Z" 
+          fill="url(#starGrad)" stroke="#14B8A6" stroke-width="2.5"/>
+    
+    <!-- Lower triangle -->
+    <path d="M 0 22 L -19 -8 L 19 -8 Z" 
+          fill="url(#starGrad)" stroke="#14B8A6" stroke-width="2.5"/>
+    
+    <!-- Inner highlights -->
+    <path d="M 0 -18 L 15 6 L -15 6 Z" 
+          fill="#FFFFFF" opacity="0.25"/>
+    <path d="M 0 18 L -15 -6 L 15 -6 Z" 
+          fill="#FFFFFF" opacity="0.25"/>
+    
+    <!-- Center hexagon -->
+    <path d="M 0 -7 L 6 -3.5 L 6 3.5 L 0 7 L -6 3.5 L -6 -3.5 Z"
+          fill="#14B8A6" opacity="0.4"/>
+  </g>
+  
+  <!-- Menorah silhouette at bottom -->
+  <g transform="translate(60, 95)" opacity="0.3">
+    <rect x="-1" y="-8" width="2" height="10" fill="#14B8A6"/>
+    <circle cx="-8" cy="-8" r="2" fill="#14B8A6"/>
+    <circle cx="-4" cy="-10" r="2" fill="#14B8A6"/>
+    <circle cx="0" cy="-12" r="2.5" fill="#14B8A6"/>
+    <circle cx="4" cy="-10" r="2" fill="#14B8A6"/>
+    <circle cx="8" cy="-8" r="2" fill="#14B8A6"/>
+  </g>
+  
+  <!-- Decorative corner elements -->
+  <circle cx="35" cy="35" r="3" fill="#14B8A6" opacity="0.4"/>
+  <circle cx="85" cy="35" r="3" fill="#14B8A6" opacity="0.4"/>
+  <circle cx="35" cy="85" r="3" fill="#14B8A6" opacity="0.4"/>
+  <circle cx="85" cy="85" r="3" fill="#14B8A6" opacity="0.4"/>
+  
+  <!-- Outer ring -->
+  <circle cx="60" cy="60" r="54" stroke="#14B8A6" stroke-width="1.5" fill="none" opacity="0.3" stroke-dasharray="4 6"/>
+</svg>
